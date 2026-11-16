@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Third-party textbook repo cloned for reference, not part of this coursework
+Hands-On-Image-Processing-and-Computer-Vision/
